@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: registry-1.docker.io/yigitpolat/bcfm
+  repository: docker.io/yigitpolat/bcfm
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
